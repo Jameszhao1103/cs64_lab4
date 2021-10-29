@@ -238,7 +238,7 @@ loop:
         sub $t2 $t2 8
         j loop
 
-location:
+
 
 
 
